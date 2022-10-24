@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.blueColor {
+    @apply text-blue-900 bg-red-500
+}
